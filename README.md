@@ -1,2 +1,2 @@
 # galerie_images
-Simple script to add url pictire at a static page.
+Simple script to add url picture at a static page.
